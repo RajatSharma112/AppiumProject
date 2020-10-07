@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="38457" started-at="2020-10-06T19:20:34 IST" finished-at="2020-10-06T19:21:12 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="38457" started-at="2020-10-06T19:20:34 IST" finished-at="2020-10-06T19:21:12 IST">
+      <class name="AppiumActivities.projectActivities.ActivitySix">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:AppiumActivities.projectActivities.ActivitySix@66d1af89]" name="beforeClass" is-config="true" duration-ms="10782" started-at="2020-10-06T19:20:34 IST" finished-at="2020-10-06T19:20:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="ChromeOne()[pri:0, instance:AppiumActivities.projectActivities.ActivitySix@66d1af89]" name="ChromeOne" duration-ms="14823" started-at="2020-10-06T19:20:45 IST" finished-at="2020-10-06T19:20:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ChromeOne -->
+        <test-method status="PASS" signature="testCaseOne()[pri:0, instance:AppiumActivities.projectActivities.ActivitySix@66d1af89]" name="testCaseOne" duration-ms="3824" started-at="2020-10-06T19:20:59 IST" finished-at="2020-10-06T19:21:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCaseOne -->
+        <test-method status="PASS" signature="testCaseTwo()[pri:0, instance:AppiumActivities.projectActivities.ActivitySix@66d1af89]" name="testCaseTwo" duration-ms="8173" started-at="2020-10-06T19:21:03 IST" finished-at="2020-10-06T19:21:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCaseTwo -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:AppiumActivities.projectActivities.ActivitySix@66d1af89]" name="afterTest" is-config="true" duration-ms="762" started-at="2020-10-06T19:21:11 IST" finished-at="2020-10-06T19:21:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- AppiumActivities.projectActivities.ActivitySix -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
